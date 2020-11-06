@@ -6,4 +6,4 @@ I love to read books. During the initial lockdowns from COVID-19, I began to mak
 ![alt text](https://github.com/joshsalce/Personal-Bookkeeper/blob/main/Home.png)
 
 
-![alt text](https://github.com/joshsalce/Personal-Bookkeeper/blob/main/Home.png)
+![alt text](https://github.com/joshsalce/Personal-Bookkeeper/blob/main/Modal.png)
