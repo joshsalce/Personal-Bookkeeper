@@ -5,5 +5,6 @@ I love to read books. During the initial lockdowns from COVID-19, I began to mak
 
 ![alt text](https://github.com/joshsalce/Personal-Bookkeeper/blob/main/Home.png)
 
+The home page contains a button that opens a modal for the user to input the author, title, subject, and price of a book. Hit submit, and the input is taken from a form to the table that is on the home page. In addition to the input, a span is added to the table, where the user can delete the book from the table by clicking that switch.
 
 ![alt text](https://github.com/joshsalce/Personal-Bookkeeper/blob/main/Modal.png)
