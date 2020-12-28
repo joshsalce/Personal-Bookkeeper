@@ -2,8 +2,7 @@
 
 I love to read books. During the initial lockdowns from COVID-19, I began to make the goal of reading one book a week a reality. This is an application using HTML, CSS, JavaScript, and DOM manipulation that helps readers keep track of books that I will either buy later, or to log books that I have read.
 
-![Youtube Demo](https://www.youtube.com/watch?v=P25WSXEetTQ&feature=youtu.be)
-
+Youtube Demo: https://www.youtube.com/watch?v=P25WSXEetTQ&feature=youtu.be 
 
 
 ![alt text](https://github.com/joshsalce/Personal-Bookkeeper/blob/main/Home.png)
@@ -12,4 +11,4 @@ The home page contains a button that opens a modal for the user to input the aut
 
 ![alt text](https://github.com/joshsalce/Personal-Bookkeeper/blob/main/Modal.png)
 
-Youtube: https://www.youtube.com/watch?v=P25WSXEetTQ&feature=youtu.be 
+
